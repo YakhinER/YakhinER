@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @YakhinER
 - 👀 Меня интересует тестирование 
-- 🌱 I’m currently learning  в  EPAM и Нетологии
 - 💞️ I’m looking to collaborat с  практиками  и  менторами
 - 😃 Со мной можно связаться:  emiryakhin@gmail.com
 <!---
